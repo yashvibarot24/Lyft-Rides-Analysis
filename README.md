@@ -15,7 +15,7 @@ The SQL queries used in this project cover several key areas:
 - **<u>Weather and Temperature Impact</u>**: Assessing how weather conditions and temperature affect ride demand.
 - **<u>Top Rides and Correlation</u>**: Identifying the days with the highest ride demand and exploring correlations between temperature and ride counts.
 
-All the SQL queries used for this analysis are stored in the [lyft_queries.sql](./sql/lyft_queries.sql) file.
+All the SQL queries used for this analysis are stored in the https://github.com/yashvibarot24/Lyft-Rides-Analysis/blob/main/SQLQuery.sql file.
 
 ## <u><b>Tools and Technologies Used</b></u>
 
